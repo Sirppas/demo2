@@ -21,8 +21,10 @@ p {
 
 ul {
     list-style-type: square;
+    color: white;
 }
 
 ol {
     list-style-type: lower-alpha;
+    color: white;
 }
