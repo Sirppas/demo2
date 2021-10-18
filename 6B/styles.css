@@ -1,0 +1,44 @@
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+#header {
+    background-color: rgb(150, 184, 201);
+    color: black;
+    padding: 2px;
+    width: auto;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#nav {
+    background-color: rgb(156, 198, 218);
+    color: white;
+    width: auto;
+    padding: 20px;
+}
+
+a:hover {
+    color: #a02f2f;
+  }
+
+a {
+    background-color: rgb(228, 228, 228);
+    color: black;
+    border-radius: 5px;
+    padding: 10px;
+    width: auto;
+}
+
+#section {
+    background-color: rgb(228, 228, 228);
+    color: black;
+    width: auto;
+    padding: 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
