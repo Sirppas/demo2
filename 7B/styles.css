@@ -4,11 +4,11 @@ body {
 }
 
 .row {
-    background-color: rgb(252, 158, 124);
+    background-color: rgb(104, 136, 128);
     color: white;
 }
 
-title {
+h1 {
     text-align: center;
 }
 
