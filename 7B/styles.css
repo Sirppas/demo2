@@ -3,3 +3,12 @@ body {
     color: white;
 }
 
+.row {
+    background-color: rgb(252, 158, 124);
+    color: white;
+}
+
+title {
+    text-align: center;
+}
+
