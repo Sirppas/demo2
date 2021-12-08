@@ -1,0 +1,39 @@
+body{
+    margin-left: 20px;
+    margin-right: 10px;
+    color: black;
+}
+ 
+header{
+    text-align: center;
+    text-shadow: 3px 3px;
+}
+ 
+.box{
+    width: 250px;
+    height: 200px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 7px 5px;
+    background-image: url("/img/cat.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ 
+.link{
+    font-size: large;
+    color: inherit;
+    font-weight: 700;
+}
+ 
+.link:hover{
+    color: red;
+    transition: 0.7s;
+}
+ 
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: black;
+      color: rgb(255, 255, 255);
+    }
+  }
