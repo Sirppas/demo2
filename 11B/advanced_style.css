@@ -15,7 +15,7 @@ header{
     border-style: solid;
     border-width: 1px;
     box-shadow: 7px 5px;
-    background-image: url("/img/nappis_2-1.jpg");
+    background-image: url(/img/nappis_2-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
